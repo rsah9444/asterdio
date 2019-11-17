@@ -1,0 +1,19 @@
+.button {
+    
+    float:center;
+    color:blue;
+    height:500px;
+    margin:auto;
+}
+button{
+    background-color: brown;
+    display:inline-block;
+    width:15%;
+    height: 5%;
+    float:center;
+    text-align:center;
+    transform-style:preserve-3d;
+    cursor:pointer;
+    transition:all .3s ease;
+    font-family: 'arial'
+}
